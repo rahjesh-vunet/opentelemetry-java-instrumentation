@@ -110,3 +110,4 @@ finatra-2.9:javaagent
 google-http-client-1.19:javaagent
 executors:bootstrap
 grails-3.0:javaagent
+graphql-java-12.0:javaagent
