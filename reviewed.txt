@@ -301,3 +301,4 @@ mongo-async-3.3:javaagent
 mongo-4.0:javaagent
 mybatis-3.2:javaagent
 mongo-common:testing
+nats-2.17:javaagent
