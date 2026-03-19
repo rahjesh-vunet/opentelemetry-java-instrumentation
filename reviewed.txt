@@ -103,3 +103,4 @@ executors:testing
 executors:jdk21-testing
 external-annotations:javaagent
 external-annotations:javaagent-unit-tests
+failsafe-3.0:library
