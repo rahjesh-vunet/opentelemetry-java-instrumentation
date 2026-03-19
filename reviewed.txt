@@ -236,3 +236,4 @@ testing-apps:testing-webapp
 jodd-http-4.2:javaagent
 testing-apps:camel-testing-app
 jodd-http-4.2:javaagent-unit-tests
+jsf-jakarta-common:javaagent
