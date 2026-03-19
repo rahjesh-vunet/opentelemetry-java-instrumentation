@@ -299,3 +299,4 @@ mongo-3.1:library
 mongo-3.1:testing
 mongo-async-3.3:javaagent
 mongo-4.0:javaagent
+mybatis-3.2:javaagent
