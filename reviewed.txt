@@ -480,3 +480,4 @@ spring-rabbit-1.0:javaagent
 spring-scheduling-3.1:javaagent
 spring-scheduling-3.1:bootstrap
 spring-pulsar-1.0:javaagent
+spring-jms-6.0:javaagent
