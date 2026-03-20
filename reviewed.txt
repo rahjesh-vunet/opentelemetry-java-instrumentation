@@ -539,3 +539,4 @@ wicket-8.0:common-testing
 wicket-8.0:javaagent
 vertx-sql-client-4.0:javaagent
 wicket-8.0:wicket10-testing
+wicket-8.0:wicket8-testing
