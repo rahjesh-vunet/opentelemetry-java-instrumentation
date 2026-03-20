@@ -483,3 +483,4 @@ spring-pulsar-1.0:javaagent
 spring-jms-6.0:javaagent
 spring-rmi-4.0:javaagent
 spring-security-config-6.0:javaagent
+spring-security-config-6.0:library
