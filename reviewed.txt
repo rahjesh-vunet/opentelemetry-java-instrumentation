@@ -513,3 +513,4 @@ tomcat-common:javaagent
 tomcat-7.0:javaagent
 tomcat-jdbc:javaagent
 twilio-6.6:javaagent
+undertow-1.4:bootstrap
